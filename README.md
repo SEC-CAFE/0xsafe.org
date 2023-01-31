@@ -4,19 +4,15 @@
 ```
 {
     "title": "腾讯安全应急响应中心（TSRC, Tencent Security Response Center）", //必填，中文标题 (缩写，英文全称)
-    "logo": "tsrc.png", //必填，logo图片文件名，最佳尺寸104*104px
+    "logo": "tsrc.png", //logo图片文件名，最佳尺寸104*104px, 如空则默认取anchor首字母
     "qr_img": "tsrc.jpg", // 二维码图片名称，最佳尺寸258*258px
     "anchor": "tsrc", //必填，平台英文缩写，注意小写
-    "home_title": "https://security.tencent.com", //平台主页地址，需要包含https/http，要求平台地址或者联系邮箱二者必填之一
-    "home_link": "https://security.tencent.com", //同上
-    "weibo_title": "@腾讯安全应急响应中心", //微博名称，格式@微博名称
+    "home": "https://security.tencent.com", //平台主页地址，需要包含https/http，要求平台地址或者联系邮箱二者必填之一
+    "weibo": "@腾讯安全应急响应中心", //微博名称，格式@微博名称
     "weibo_link": "http://weibo.com/tsrcteam", //微博地址,http://weibo.com/ 开头
-    "twitter_title": "@tsrc_team", //Twitter名称
-    "twitter_link": "https://twitter.com/tsrc_team", //Twitter地址
-    "weixin_title": "腾讯安全应急响应中心", //微信公众号名称
-    "weixin_link": "http://weixin.sogou.com/weixin?type=1&query=%E8%85%BE%E8%AE%AF%E5%AE%89%E5%85%A8%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E4%B8%AD%E5%BF%83", //微信公众号地址，统一为搜狗微信搜索地址
-    "envelope_title": "security@tencent.com", //邮箱
-    "envelope_link": "mailto:security@tencent.com", //mailto:邮箱
+    "twitter": "@tsrc_team", //Twitter名称
+    "weixin": "腾讯安全应急响应中心", //微信公众号名称
+    "mail": "security@tencent.com", //邮箱
   },
 ```
 3. 替换填写相关内容，注意必填项

@@ -20,15 +20,28 @@ buildHTML = function(src) {
     {'key': 'weibo', 'name': '新浪微博'},
     {'key': 'twitter','name': 'Twitter'},
     {'key': 'weixin', 'name': '微信公众号'},
-    {'key': 'envelope','name': '邮箱地址'}
+    {'key': 'mail','name': '邮箱地址'}
   ]
 
   for (span in lists){
     var key = lists[span]['key'];
     var name = lists[span]['name'];
-    if (src[key+'_title'] && src[key+'_link']){
+    if (src[key]){
+      if (src[key+'_link']){
+        var link = src[key+'_link']
+      }else{
+        if (key == 'twitter'){
+            var link = 'https://twitter.com/' + src[key].substr(1);
+        } else if (key == 'weixin'){
+            var link = 'http://weixin.sogou.com/weixin?type=1&query=' + src[key];
+        } else if (key == 'mail'){
+            var link = 'mailto:' + src[key];
+        } else {
+            var link = src[key];
+        };
+      };
       $("<span class='am-icon-"+key+"'> "+name+"：</span>").appendTo(div);
-      $("<a href='"+src[key+'_link']+"'>"+src[key+'_title']+"</a>").appendTo(div);
+      $("<a href='"+link+"'>"+src[key]+"</a>").appendTo(div);
       $("</br>").appendTo(div);
     }
   }
