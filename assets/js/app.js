@@ -40,7 +40,11 @@ buildHTML = function(src) {
             var link = src[key];
         };
       };
-      $("<span class='am-icon-"+key+"'> "+name+"：</span>").appendTo(div);
+      if (key == 'mail'){
+          $("<span class='am-icon-envelope'> "+name+"：</span>").appendTo(div);
+      }else{
+          $("<span class='am-icon-"+key+"'> "+name+"：</span>").appendTo(div);
+      };
       $("<a href='"+link+"'>"+src[key]+"</a>").appendTo(div);
       $("</br>").appendTo(div);
     }
