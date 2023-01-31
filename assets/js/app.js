@@ -39,6 +39,7 @@ refresh = function(data){
   for (src in data){
     buildHTML(data[src]);
   }
+  $('.total_records').text(data.length)
 }
 
 refresh(o_data);
