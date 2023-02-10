@@ -638,6 +638,9 @@ var o_data = [
     "anchor": "wulintang",
     "qr_img": "wulintangos.jpg",
     "home": "https://www.wulintang.net",
+    "weibo": "@伍林堂应急响应",
+    "weibo_link": "https://weibo.com/u/2288794614",
+    "weixin": "伍林堂工作室",
     "mail": "wulintang@ccwadj.cn",
   },
 ]
