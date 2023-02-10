@@ -634,12 +634,10 @@ var o_data = [
   },
   {
     "title": "伍林堂安全应急响应中心（WuLinTang Security Response Center）",
-    "logo": "wulintangsrc.jpg",
+    "logo": "wulintangsrc.png",
     "anchor": "wulintang",
     "qr_img": "wulintangos.jpg",
-    "home_title": "https://www.wulintang.net",
-    "home_link": "https://www.wulintang.net/",
-    "envelope_title": "wulintang@ccwadj.cn",
-    "envelope_link": "mailto:wulintang@ccwadj.cn",
+    "home": "https://www.wulintang.net",
+    "mail": "wulintang@ccwadj.cn",
   },
 ]
