@@ -632,4 +632,15 @@ var o_data = [
     "weixin": "OPPO安全应急响应中心",
     "mail": "security@oppo.com",
   },
+  {
+    "title": "伍林堂安全应急响应中心（WuLinTang Security Response Center）",
+    "logo": "wulintangsrc.png",
+    "anchor": "wulintang",
+    "qr_img": "wulintangos.jpg",
+    "home": "https://www.wulintang.net",
+    "weibo": "@伍林堂应急响应",
+    "weibo_link": "https://weibo.com/u/2288794614",
+    "weixin": "伍林堂工作室",
+    "mail": "wulintang@ccwadj.cn",
+  },
 ]
