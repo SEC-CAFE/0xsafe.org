@@ -260,7 +260,7 @@ var o_data = [
     "title": "猪八戒网安全应急响应中心（ZSRC, ZBJ Security Response Center）",
     "logo": "zsrc.png",
     "qr_img": "",
-    "anchor": "yisrc",
+    "anchor": "zsrc",
     "home": "https://sec.zbj.com",
     "mail": "sec@zbj.com",
   },
@@ -676,5 +676,12 @@ var o_data = [
     "home": "https://security.guazi.com",
     "weixin": "瓜子安全应急响应中心",
     "mail": "gzsrc@guazi.com",
+  },
+  {
+    "title": "合合安全应急响应中心（ISRC, Intsig Security Response Center）",
+    "logo": "isrc.png",
+    "anchor": "isrc",
+    "home": "https://security.intsig.com/",
+    "mail": "security@intsig.net",
   },
 ]
