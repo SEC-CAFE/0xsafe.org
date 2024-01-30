@@ -387,12 +387,12 @@ var o_data = [
     "mail": "security@snda.com",
   },
   {
-    "title": "中兴白帽子计划",
+    "title": "中兴通讯PSIRT",
     "logo": "zte.jpg",
     "qr_img": "",
     "anchor": "zte",
-    "home": "http://www.zte.com.cn/cn/about/corporate_citizenship/security/201405/t20140530_424338.html",
-    "mail": "psirt@zte.com.cn（需要通过PGP）",
+    "home": "https://www.zte.com.cn/china/about/trust-center/ztepsirt.html",
+    "mail": "psirt@zte.com.cn",
   },
   {
     "title": "完美世界安全应急响应中心（PWSRC, Perfect World Security Response Center）",
