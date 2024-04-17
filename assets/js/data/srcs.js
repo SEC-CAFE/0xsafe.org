@@ -608,7 +608,7 @@ var o_data = [
     "title": "OPPO安全应急响应中心（OSRC, OPPO Security Response Center）",
     "logo": "osrc.jpg",
     "anchor": "osrc",
-    "qr_img": "osrc.jpg",
+    "qr_img": "osrc.png",
     "home": "https://security.oppo.com",
     "weixin": "OPPO安全应急响应中心",
     "mail": "security@oppo.com",
