@@ -36,6 +36,8 @@ buildHTML = function(src) {
             var link = 'http://weixin.sogou.com/weixin?type=1&query=' + src[key];
         } else if (key == 'mail'){
             var link = 'mailto:' + src[key];
+        } else if (key == 'home'){
+            var link = src[key] + '?ref=https://0xsafe.org';
         } else {
             var link = src[key];
         };
