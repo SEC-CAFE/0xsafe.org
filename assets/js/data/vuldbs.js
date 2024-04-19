@@ -105,6 +105,22 @@ var o_data = [
     "mail": "support@bugbank.cn",
   },
   {
+    "title": "雷神众测",
+    "logo": "bountyteam.jpg",
+    "qr_img": "bountyteam.png",
+    "anchor": "bountyteam",
+    "home": "https://www.bountyteam.com/",
+    "mail": "bountyteam@dbappsecurity.com.cn",
+  },
+  {
+    "title": "云众可信",
+    "logo": "cloudcrowd.jpg",
+    "qr_img": "cloudcrowd.png",
+    "anchor": "cloudcrowd",
+    "home": "https://user.cloudcrowd.com.cn/",
+    "mail": "bountyteam@dbappsecurity.com.cn",
+  },
+  {
     "title": "破壳漏洞社区（POCKR）(已关闭)",
     "logo": "pockr.jpeg",
     "qr_img": "pockr.jpg",
