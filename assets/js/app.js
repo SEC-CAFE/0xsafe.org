@@ -19,7 +19,7 @@ buildHTML = function(src) {
     {'key': 'home', 'name': '官网'},
     {'key': 'weibo', 'name': '新浪微博'},
     {'key': 'twitter','name': 'Twitter'},
-    {'key': 'weixin', 'name': '微信公众号'},
+    //{'key': 'weixin', 'name': '微信公众号'},
     {'key': 'mail','name': '邮箱地址'}
   ]
 

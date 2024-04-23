@@ -572,9 +572,12 @@ var o_data = [
   },
   {
     "title": "哔哩哔哩安全应急响应中心（BiliSRC, Bili Security Response Center）",
-    "logo": "bilisrc.png",
+    "logo": "bilisrc.jpg",
     "anchor": "bilisrc",
     "home": "https://security.bilibili.com",
+    "weibo": "@哔哩哔哩应急响应中心",
+    "weibo_link": "https://weibo.com/BILISRC",
+    "mail": "security@bilibili.com",
   },
   {
     "title": "你我贷安全响应中心（NSRC, NIWODAI Security Response Center）",
