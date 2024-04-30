@@ -965,14 +965,21 @@ var o_data = [
     "mail": "src@topsec.com.cn",
   },
   {
-    "title": "TCL安全应急响应中心（TCLSRC, TCL Security Vulnerability Response Center）",
+    "title": "安恒安全响应中心（DSRC, DBAPPSecurity Security Response Center）",
+    "logo": "dsrc3.png",
+    "anchor": "dsrc3",
+    "home": "https://security.dbappsecurity.com.cn/index",
+    "mail": "src@dbappsecurity.com.cn",
+  },
+  {
+    "title": "TCL安全应急响应中心（TCLSRC, TCL Security Response Center）",
     "logo": "tclsrc.jpg",
     "anchor": "tclsrc",
     "home": "https://src.tcl.com/zh/index",
     "mail": "security@tcl.com",
   },
   {
-    "title": "T3出行安全应急响应中心（T3SRC, T3 Security Vulnerability Response Center）",
+    "title": "T3出行安全应急响应中心（T3SRC, T3 Security Response Center）",
     "logo": "t3src.jpg",
     "qr_img": "t3src.jpg",
     "anchor": "t3src",
@@ -987,6 +994,40 @@ var o_data = [
     "home": "https://src.bytedance.com/home",
     "mail": "security@bytedance.com",
   },
-
- 
+  {
+    "title": "BOSS直聘安全应急响应中心（BSSRC, BOSS Security Response Center）",
+    "logo": "bssrc.jpg",
+    "anchor": "bssrc",
+    "home": "https://security.zhipin.com/",
+    "mail": "secure@kanzhun.com",
+  },
+  {
+    "title": "BIGO 安全响应中心（BIGOSRC, Bigo Security Response Center）",
+    "logo": "bigosrc.png",
+    "anchor": "bigosrc",
+    "home": "https://security.bigo.sg/#/",
+    "mail": "security@bigo.sg",
+  },
+  {
+    "title": "贝壳安全应急响应中心（BKSRC, BeiKe Security Response Center）",
+    "logo": "bksrc.jpg",
+    "qr_img": "bksrc.png",
+    "anchor": "bksrc",
+    "home": "https://src.bytedance.com/home",
+    "mail": "security@ke.com",
+  },
+  {
+    "title": "丁香园安全应急响应中心（DXYSRC）",
+    "logo": "dxysrc.jpg",
+    "anchor": "dxysrc",
+    "home": "https://dxysrc.vulbox.com/home",
+  },
+  {
+    "title": "华为安全奖励计划（HBBP, Huawei Bug Bounty Program）",
+    "logo": "hbbp.jpg",
+    "qr_img": "hbbp.jpg",
+    "anchor": "hbbp",
+    "home": "https://bugbounty.huawei.com/#/home",
+    "mail": "psirt@huawei.com",
+  },
 ]

@@ -121,6 +121,13 @@ var o_data = [
     "mail": "bountyteam@dbappsecurity.com.cn",
   },
   {
+    "title": "春秋云测",
+    "logo": "cqyc.jpg",
+    "anchor": "cqyc",
+    "home": "https://zhongce.ichunqiu.com/",
+    "mail": "src@ichunqiu.com",
+  },
+  {
     "title": "破壳漏洞社区（POCKR）(已关闭)",
     "logo": "pockr.jpeg",
     "qr_img": "pockr.jpg",
