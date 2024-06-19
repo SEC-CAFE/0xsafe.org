@@ -115,7 +115,7 @@ var o_data = [
   {
     "title": "云众可信",
     "logo": "cloudcrowd.jpg",
-    "qr_img": "cloudcrowd.png",
+    "qr_img": "cloudcrowd.jpg",
     "anchor": "cloudcrowd",
     "home": "https://user.cloudcrowd.com.cn/",
     "mail": "bountyteam@dbappsecurity.com.cn",
