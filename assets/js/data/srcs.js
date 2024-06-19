@@ -862,7 +862,7 @@ var o_data = [
     "mail": "sec@kuaishou.com",
   },
   {
-    "title": "理想安全应急响应中心（LXSRC, Kuaishou Security Response Center）",
+    "title": "理想安全应急响应中心（LXSRC, LiXiang Security Response Center）",
     "logo": "lxsrc1.jpg",
     "anchor": "lxsrc1",
     "home": "https://security.lixiang.com/index",
