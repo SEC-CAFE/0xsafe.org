@@ -1,3 +1,9 @@
+### 说明
+在线导航已合并迁移至[https://sec.cafe/links](https://sec.cafe/links)
+
+但不影响本项目代码运行，如有需要，可单独fork本项目部署，示例可见 [0xafe.netlify.app](https://0xafe.netlify.app/)，请注明`powered by SEC.CAFE`
+
+
 ### 申请添加SRC或者漏洞平台
 1. Fork 该项目
 2. 修改assets/js/data目录下的srcs.js或者vuldb.js数据文件,在尾部添加dict,格式如下
