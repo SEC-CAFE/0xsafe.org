@@ -1,7 +1,7 @@
 ### 说明
 在线导航已合并迁移至[https://sec.cafe/links](https://sec.cafe/links)
 
-但不影响本项目代码运行，如有需要，可单独fork本项目部署，示例可见 [0xafe.netlify.app](https://0xafe.netlify.app/)，请注明`powered by SEC.CAFE`
+但不影响本项目代码运行，如有需要，可单独fork本项目部署，示例可见 [0xafe.netlify.app](https://0xafe.netlify.app/)，请注明`Powered by SEC.CAFE`
 
 
 ### 申请添加SRC或者漏洞平台
